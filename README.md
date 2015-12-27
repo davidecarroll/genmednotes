@@ -3,7 +3,7 @@ this is a repo for some short notes. to be used for a medical education project
 
 # disclaimer 
 
-Is this not medical advice, nor shall it be recieved as medical advice. These are personal study notes and should be used for personal study only. They may be incomplete or incorrect. They should not be used to guide medical treatment. Please contact your physician for medical advice. This is not medical advice.
+This is not medical advice, nor shall it be recieved as medical advice. These are personal study notes and should be used for personal study only. They may be incomplete or incorrect. They should not be used to guide medical treatment. Please contact your physician for medical advice. This is not medical advice.
 
 ## Requirements
 
